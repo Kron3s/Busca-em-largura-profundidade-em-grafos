@@ -1,2 +1,5 @@
 # Busca-em-largura-profundidade-em-grafos
-algoritmo para recuperar o caminho de uma busca em profundidade e largura 
+
+algoritmo de busca em profundidade e  busca em largura
+utilzando um grafo simples sem peso.
+
